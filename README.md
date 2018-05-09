@@ -1,0 +1,2 @@
+# TextClickDemo
+TextView实现多个协议处理不同点击事件
