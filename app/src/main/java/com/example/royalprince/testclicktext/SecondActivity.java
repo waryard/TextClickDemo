@@ -37,7 +37,7 @@ public class SecondActivity extends AppCompatActivity {
 
         context = this;
         mNum = findViewById(R.id.tv_num);
-        String str = "配送至北京市海淀区万柳亿城17层，配送员电话：1008611，投诉电话：12345678；请同意如下协议";
+        String str = "配送至北京市海淀区某个地方，配送员电话：1008611，投诉电话：12345678；请同意如下协议";
 
         for (int i = 0; i < 10; i++) {
             strList.add("《这个是协议" + i + "》");
