@@ -150,6 +150,7 @@ public class SecondActivity extends AppCompatActivity {
             super.updateDrawState(ds);
             ds.setUnderlineText(false);//设置文字下划线不显示
             ds.setColor(getResources().getColor(R.color.colorAccent));//设置字体颜色
+
         }
     }
 }
